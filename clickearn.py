@@ -17,7 +17,7 @@ def bot():
         chrome = webdriver.Chrome(chrome_options=chrome_options)
 
         #chrome.set_page_load_timeout(30)
-        chrome.get("LINK YOUR PAGE / TIKLANACAK ADRES")
+        chrome.get("https://link.vjdisk.xyz/dT01MjAzODIwMDQ2Jnc9MTAw")
         time.sleep(5)
         
 
