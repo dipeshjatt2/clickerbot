@@ -75,7 +75,7 @@ proxy_adet = sum(1 for line in open('proxy.txt'))
 print ("Proxy Adeti: %s" %proxy_adet)
 tikadet = input("Adet Belirtiniz: ")
 tikbaslangic = 0
-while tikbaslangic tikadet:
+while tikbaslangic :
     tikbaslangic = tikbaslangic +1
     proxy_read = open("proxy.txt").read().splitlines() 
     proxy_id =  tikbaslangic
